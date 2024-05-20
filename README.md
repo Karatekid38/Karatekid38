@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-<!--
+
 **Karatekid38/Karatekid38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on high school
-- 🌱 I’m currently learning required material to graduate high school
+- 🌱 I’m currently learning the required material to graduate high school
 - 👯 I’m looking to collaborate on school projects
 - 🤔 I’m looking for help with high school
 - 💬 Ask me about 3d printing

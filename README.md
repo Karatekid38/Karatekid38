@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <andrewfuller@ameritech.net>
 - ⚡ Fun fact: there are more wheels than doors in the world.
 
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-fuller-72017b30b)
+
 
 <p align='center'> 
 

@@ -16,15 +16,10 @@ Here are some ideas to get you started:
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-fuller-72017b30b)
 
 
-<p align='center'> 
-
-   <a href="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true"> 
 
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=Karatekid38&show_icons=true&count_private=true"/> 
 
-   </a> 
 
-   <a href="https://github.com/yourusername/github-readme-stats"> 
 
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karatekid38&layout=compact"/> 
 

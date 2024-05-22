@@ -1,29 +1,18 @@
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on high school
-- 🌱 I’m currently learning the required material to graduate high school
-- 👯 I’m looking to collaborate on school projects
-- 🤔 I’m looking for help with high school
-- 💬 Ask me about 3d printing
-- 📫 How to reach me: <andrewfuller@ameritech.net>
-- ⚡ Fun fact: there are more wheels than doors in the world.
-
-Linkedin: [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-fuller-72017b30b)
-
-Johnny Coder
+Andrew Fuller
 ============
 
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
+Grand Blanc          |                  Michigan 
+                     |
+United States        |                   <andrewfuller@ameritech.net>
+                     |
+(1)810-445-8110        |                  [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-fuller-72017b30b)
+
 
 Education
 ---------
 
-2021-2025 (expected)
-:   **Grand Blanc High School, 4.112 GPA as of current
+2012-2025 (expected)
+:   **Grand Blanc Community Schools**, 4.112 GPA as of current. Go bobcats! <img src="https://www.gbcs.org//cms/lib/MI50000457/Centricity/Domain/12/GBHS.png" width="50" height="50" />
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
@@ -38,30 +27,35 @@ Formal Work Experience
 ----------
 
 June 2023 - Dec 2023
-**Culver's Restaurants:**
+**[Culvers Restaurants](https://www.culvers.com/):**
 
 * Kitchen worker:
   * Grill
   * Fryer
   * Assembly station
-  * [Culvers Website](https://www.culvers.com/)
 
-Technical Experience
+Technical Experience / Side Projects
 --------------------
 
-#### My Cool Side Project
-Impulze3d
-* Large format 3d-printer
+#### Impulze3d - Custom Crossed Gantry FDM 3d-Printer
+* Large format FDM 3d-printer
   * 310x310x350mm build volume
   * Triple Belted Z axis motors for smooth and fast bed control
-    * Capable of true bed leveling using 3 points of contact and a maxwell kinematic mount
-    * 200mm/s bed movement with 3 endstops to rough-home the printer to be used with beacon probe. This ensures the bed is level enough for any probe to work without high Z travel movements
-  * Crossed gantry design
-    * 4 motors for X and Y movement, not just 2 like typical CoreXY designs
-    * faster accelerations at quality, up to 40,000mm/s^2 (4Gs) acceleration
-    * Shoter belt paths for better positional accuracy and less "ringing"
-* Second item.
-* [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Karatekid38/Impulze-3d)
+    * Capable of true bed leveling using 3 points of contact and maxwell kinematic mounts
+    * 200mm/s bed movement with 3 endstops to rough-home the printer to be used with [beacon probe](https://beacon3d.com/). This ensures the bed is level enough for any probe to work without high Z travel movements
+* Crossed gantry design
+   * 4 motors for X and Y movement, not just 2 like typical CoreXY designs
+   * faster accelerations at quality, up to 40,000mm/s^2 (4Gs) acceleration, regularly print at 20k accel
+   * Shorter belt paths for better positional accuracy and less "ringing"
+   * Second item.
+* A more detailed look at [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Karatekid38/Impulze-3d)
+
+#### EngiNERDs Robotics team: 2020-2025
+* Learn engineering concepts and CAD design
+   * everything is put into CAD, requiring work efficiency
+   * because everything will be put on the robot, we have to cad for manufacturing and assembly
+* Work with others to build complex designs in 6 weeks
+  * section-based design and specialized student work.
 
 Open Source
 :   List open source contributions here, perhaps placing emphasis on

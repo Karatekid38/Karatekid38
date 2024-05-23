@@ -5,7 +5,7 @@ Grand Blanc, Michigan
                      |
 United States        |                   <andrewfuller@ameritech.net>
                      |
-(1)810-445-8110      |               [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-fuller-72017b30b)
+(1)810-445-8110      |               [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-fuller-72017b30b) |  <a href="https://x.com/realKaratekid38"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/realKaratekid38"></a><br>
 
 
 Education

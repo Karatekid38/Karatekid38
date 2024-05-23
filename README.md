@@ -51,6 +51,7 @@ Technical Experience / Side Projects
 
 ### *Solid State Filament Spool Dryer / Solid State Dehumidifier*
 * Solid state, low maintenance cost dehumidifier
+  * Use a Peltier module for hot/cold control
   * No more silica gel
   * Consums only power without interchanging parts (like silica gel)
 * High temp goal of 100c or greater
@@ -65,3 +66,5 @@ Technical Experience / Side Projects
 *   **TypeScript:** Exposure from Javascript, much similar and both have their own uses, typescript was learned as an alternative to block code in a computer science class
 
 *   **Python:** Still learning...
+  
+![karatekid38's GitHub stats](https://github-readme-stats.vercel.app/api?username=karatekid38&show_icons=true&theme=transparent)

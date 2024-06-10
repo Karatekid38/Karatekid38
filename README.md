@@ -66,5 +66,4 @@ Technical Experience / Side Projects
 *   **TypeScript:** Exposure from Javascript, much similar and both have their own uses, typescript was learned as an alternative to block code in a computer science class
 
 *   **Python:** Still learning...
-  
-![karatekid38's GitHub stats](https://github-readme-stats.vercel.app/api?username=karatekid38&show_icons=true&theme=transparent)
+
